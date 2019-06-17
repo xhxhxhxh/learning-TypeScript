@@ -1,3 +1,4 @@
+"use strict";
 // let str: string = '123'
 // str = 7
 // let str: any = '123'
